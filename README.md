@@ -1,2 +1,2 @@
 # RandomDataAnalyst_DataAnalysis
-A readme file for the repository of Random Data Analyst to store data analysis codes
+A repository for data analysis codes which I will be making YouTube videos on. Check out my channel at https://www.youtube.com/@RandomDataAnalyst
