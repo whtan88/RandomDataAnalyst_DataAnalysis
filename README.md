@@ -8,4 +8,4 @@ A repository for data analysis codes which I will be making YouTube videos on. C
 | From Mystery to Clarity: Using SHAP to Explain ML Decisions | https://youtu.be/w1twWEkIBuc | Using SHAP values to explain machine learning models trained using Kaggle Spaceship Titantic Dataset
 | Anomlay Detection using Isolation Forest |https://youtu.be/vcxZmXNxGKc | Using Isolation Forest ML Algorithmn to detect anomaly using Kaggle Credit Card Fraud Dataset
 | Sentiment Analysis of SG 2025 General Election Rally Speeches |https://youtu.be/EZoMLlQxLLI| Sentiment Analysis to analyze SG 2025 General Election Rally Speeches
-| MLBB Heroes Network Link Analysis | | Using dataset of matches played in the Southeast Asian tournaments, use network link analysis to explore different combinations of heroes to find a strong team
+| MLBB Heroes Network Link Analysis |https://youtu.be/D7jltuDjQbQ | Using dataset of matches played in the Southeast Asian tournaments, use network link analysis to explore different combinations of heroes to find a strong team
