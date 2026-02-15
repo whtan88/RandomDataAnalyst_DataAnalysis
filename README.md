@@ -12,3 +12,4 @@ A repository for data analysis codes which I will be making YouTube videos on. C
 |Uncover Hidden Stock Trading Patterns and Strategies with Python|https://youtu.be/sURgOxkFb-Y| Performing Exploratory Data Analysis to undercover potential trading patterns and strategies
 |Python Practical Application : Logistic Regression Model|https://youtu.be/BgjBbG6bogM| Practical walkthrough of Logistic Regression Model from Sci-kit learn library
 |Feature Engineering Magic : Using WoE & IV to improve ML model performance| https://youtu.be/YZrqabxkpqU| Walkthrough of Weight of Evidence (WoE) and Information Value (IV) using scorecardpy library
+|Placeholder for Credit Scorecard|| Walkthrough of Credit Score card using scorecardpy library
