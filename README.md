@@ -13,3 +13,4 @@ A repository for data analysis codes which I will be making YouTube videos on. C
 |Python Practical Application : Logistic Regression Model|https://youtu.be/BgjBbG6bogM| Practical walkthrough of Logistic Regression Model from Sci-kit learn library
 |Feature Engineering Magic : Using WoE & IV to improve ML model performance| https://youtu.be/YZrqabxkpqU| Walkthrough of Weight of Evidence (WoE) and Information Value (IV) using scorecardpy library
 |Python Credit Risk Modeling: Credit Scorecard with WOE & Logistic Regression| https://youtu.be/sK2GYo6syH0| Walkthrough of Credit Score card using scorecardpy library
+|Data Visualization : T-SNE vs UMAP||A data visualization comparison between T-SNE and UMAP
